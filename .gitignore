@@ -1,4 +1,4 @@
 .env
 .sqlagentenv
 abinashdai.py
-notebook\sqlagent_langgarph.ipynb
+..\notebook\sqlagent_langgarph.ipynb
